@@ -1,0 +1,17 @@
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\bin\Debug\net8.0\NetCoreMVC.DataAccess.deps.json
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\bin\Debug\net8.0\NetCoreMVC.DataAccess.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\bin\Debug\net8.0\NetCoreMVC.DataAccess.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\bin\Debug\net8.0\NetCoreMVC.Models.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\bin\Debug\net8.0\NetCoreMVC.Utility.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\bin\Debug\net8.0\NetCoreMVC.Models.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\bin\Debug\net8.0\NetCoreMVC.Utility.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreMVC.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreMVC.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreMVC.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreMVC.DataAccess.AssemblyInfo.cs
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreMVC.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreM.33F1537E.Up2Date
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreMVC.DataAccess.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\refint\NetCoreMVC.DataAccess.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\NetCoreMVC.DataAccess.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.DataAccess\obj\Debug\net8.0\ref\NetCoreMVC.DataAccess.dll

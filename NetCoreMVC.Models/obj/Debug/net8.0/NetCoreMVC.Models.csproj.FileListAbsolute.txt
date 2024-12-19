@@ -1,0 +1,12 @@
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\bin\Debug\net8.0\NetCoreMVC.Models.deps.json
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\bin\Debug\net8.0\NetCoreMVC.Models.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\bin\Debug\net8.0\NetCoreMVC.Models.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\NetCoreMVC.Models.csproj.AssemblyReference.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\NetCoreMVC.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\NetCoreMVC.Models.AssemblyInfoInputs.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\NetCoreMVC.Models.AssemblyInfo.cs
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\NetCoreMVC.Models.csproj.CoreCompileInputs.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\NetCoreMVC.Models.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\refint\NetCoreMVC.Models.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\NetCoreMVC.Models.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.Models\obj\Debug\net8.0\ref\NetCoreMVC.Models.dll

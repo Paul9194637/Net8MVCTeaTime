@@ -1,0 +1,11 @@
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\bin\Debug\net8.0\NetCoreMVC.Utility.deps.json
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\bin\Debug\net8.0\NetCoreMVC.Utility.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\bin\Debug\net8.0\NetCoreMVC.Utility.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\NetCoreMVC.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\NetCoreMVC.Utility.AssemblyInfoInputs.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\NetCoreMVC.Utility.AssemblyInfo.cs
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\NetCoreMVC.Utility.csproj.CoreCompileInputs.cache
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\NetCoreMVC.Utility.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\refint\NetCoreMVC.Utility.dll
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\NetCoreMVC.Utility.pdb
+D:\Projects\NetCoreMVC\NetCoreMVC.Utility\obj\Debug\net8.0\ref\NetCoreMVC.Utility.dll
